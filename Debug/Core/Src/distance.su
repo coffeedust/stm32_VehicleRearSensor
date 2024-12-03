@@ -1,0 +1,4 @@
+../Core/Src/distance.c:22:6:delayUs	16	static
+../Core/Src/distance.c:27:6:initDistance	8	static
+../Core/Src/distance.c:33:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/distance.c:69:10:getDistance	8	static
